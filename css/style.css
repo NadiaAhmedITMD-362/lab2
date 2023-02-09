@@ -48,6 +48,9 @@ input[type="submit"] {
   border-radius: 5px;
   margin-top: 20px;
 }
+.text{
+  background-color: rgb(144, 12, 63)
+}
 
 input[type="submit"]:hover {
   cursor: pointer;
